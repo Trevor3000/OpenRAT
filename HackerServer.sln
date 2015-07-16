@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerServer", "HackerServer\HackerServer.csproj", "{96024E95-92C3-48CD-A29D-E253746C560E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerClient", "HackerClient\HackerClient.csproj", "{CBC0D1C2-DCEF-4A4B-997E-919D8BA8A432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96024E95-92C3-48CD-A29D-E253746C560E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96024E95-92C3-48CD-A29D-E253746C560E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96024E95-92C3-48CD-A29D-E253746C560E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96024E95-92C3-48CD-A29D-E253746C560E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC0D1C2-DCEF-4A4B-997E-919D8BA8A432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC0D1C2-DCEF-4A4B-997E-919D8BA8A432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC0D1C2-DCEF-4A4B-997E-919D8BA8A432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC0D1C2-DCEF-4A4B-997E-919D8BA8A432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

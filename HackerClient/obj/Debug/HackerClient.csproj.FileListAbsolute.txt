@@ -1,0 +1,8 @@
+C:\Users\Ralf\Documents\Visual Studio 2013\Projects\HackerServer\HackerClient\obj\Debug\HackerClient.csprojResolveAssemblyReference.cache
+C:\Users\Ralf\documents\visual studio 2013\Projects\HackerServer\HackerClient\obj\Debug\HackerClient.Chat.resources
+C:\Users\Ralf\documents\visual studio 2013\Projects\HackerServer\HackerClient\obj\Debug\HackerClient.csproj.GenerateResource.Cache
+C:\Users\Ralf\documents\visual studio 2013\Projects\HackerServer\HackerClient\bin\Debug\taskhost.exe.config
+C:\Users\Ralf\documents\visual studio 2013\Projects\HackerServer\HackerClient\bin\Debug\taskhost.exe
+C:\Users\Ralf\documents\visual studio 2013\Projects\HackerServer\HackerClient\bin\Debug\taskhost.pdb
+C:\Users\Ralf\documents\visual studio 2013\Projects\HackerServer\HackerClient\obj\Debug\taskhost.exe
+C:\Users\Ralf\documents\visual studio 2013\Projects\HackerServer\HackerClient\obj\Debug\taskhost.pdb
